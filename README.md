@@ -9,4 +9,4 @@ Two example files with necesarry data are attached. First one, "danev2" contains
 
 So the first step is to run "projectv2.m" file in order to train neural network model and then "predict.m" file which predicts future cost values and presenting the results on figures.
 
-There is also a possibility to check a fit of neural network to the train and validation data in "testp.m" file.
+There is also a possibility to check a matching of neural network to the train and validation data in "testp.m" file.
