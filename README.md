@@ -8,3 +8,5 @@ Main file in this repo is "projectv2.m" which contains conections to other funct
 Two example files with necesarry data are attached. First one, "danev2" contains gold cost values for training and predicting and the other one "real" contains data which are used in comparison to neural networ output values. It allows to review the efficiency of trained neural network.
 
 So the first step is to run "projectv2.m" file in order to train neural network model and then "predict.m" file which predicts future cost values and presenting the results on figures.
+
+There is also a possibility to check a fit of neural network to the train and validation data in "testp.m" file.
